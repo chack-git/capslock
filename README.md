@@ -21,7 +21,7 @@ Here are several improvements to make this test project more scalable and mainta
 
 1. **Clone the repository**
    ```sh
-   git clone <your-repo-url>
+   git clone git@github.com:chack-git/capslock.git
    cd capslock
    ```
 
